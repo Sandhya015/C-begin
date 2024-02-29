@@ -1,3 +1,4 @@
+//Write a C program to compute the sum of the two input values. If the two values are the same, then return triple their sum.
 #include <stdio.h> 
 int test(int x, int y); 
 int main(void)
